@@ -1,4 +1,4 @@
-# Bookshy 📚
+# Bookshy 
 
 Bookshy is a simple book management web app built using **HTML, CSS, and JavaScript**.  
 It allows users to add books with a title, author, and description, and delete them dynamically.
